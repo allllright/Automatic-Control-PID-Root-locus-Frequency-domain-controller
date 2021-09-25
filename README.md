@@ -1,5 +1,5 @@
 # Automatic-Control-PID-Root-locus-Frequency-domain-controller
-Using Matlab simulation to construct a DC motor speed control system
+# Using Matlab simulation to construct a DC motor speed control system
 
 # 课程设计内容概括
 ## 1.本次自动控制原理课程设计运用 Matlab 仿真软件构建一个直流电动机调速系统，具体设计内容包括：
